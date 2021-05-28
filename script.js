@@ -9,6 +9,7 @@
 
 // Criar uma condição que exiba uma mensagem no console se seu sobrenome tenha mais de 6 letras OU seu nome começar com a letra E;
 
+
 let idade = 27
 const iamhuman = true
 const aniversario = "Maio"

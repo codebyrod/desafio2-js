@@ -34,7 +34,7 @@ Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios
 
 ### Desafio 02
 ---
-Segue abaixo as tarefas do primeiro desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
+Segue abaixo as tarefas do segundo desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
 
 ```js
 // Crie uma condição que exiba uma mensagem no console se a idade for maior que 18;
@@ -52,6 +52,7 @@ Segue abaixo as tarefas do primeiro desafio proposto pelo plano programático de
 ## Contato
 
 Vamos nos conectar? 
+
 **Minhas outras redes**:
 
 - [Linkedin](https://www.linkedin.com/in/devrodrigosousa/)
