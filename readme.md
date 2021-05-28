@@ -34,7 +34,7 @@ Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios
 
 ### Desafio 02
 ---
-Segue abaixo as tarefas do segundo desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
+Segue abaixo as tarefas do **segundo** desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
 
 ```js
 // Crie uma condição que exiba uma mensagem no console se a idade for maior que 18;
@@ -48,6 +48,11 @@ Segue abaixo as tarefas do segundo desafio proposto pelo plano programático de 
 
 // Criar uma condição que exiba uma mensagem no console se seu sobrenome tenha mais de 6 letras OU seu nome começar com a letra E;
 ```
+## Quem sou eu?
+<img src="assets/img/perfil linkedin.png" align="right" width= "250">
+
+Meu nome é [Rodrigo](https://www.linkedin.com/in/devrodrigosousa/), tenho 27 anos e sou recém-formado em Ciências Socais. Atualmente sou estudante de Front-End pela escola de programação [Vai na Web](https://www.vainaweb.com.br/).
+
 
 ## Contato
 
@@ -56,6 +61,7 @@ Vamos nos conectar?
 **Minhas outras redes**:
 
 - [Linkedin](https://www.linkedin.com/in/devrodrigosousa/)
+
 - [Instagram](https://www.instagram.com/devrodrigosousa/)
 
 ---
